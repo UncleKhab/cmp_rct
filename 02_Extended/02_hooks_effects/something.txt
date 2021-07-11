@@ -1,0 +1,3 @@
+Use reducer is usually used when updating a state depends on a different state or when some stated depend on each other
+In this lesson for example, we update the validity of the form by checking the state of the email input and password input
+in turn, we check the validity of the email and password by other states that depend on the state of the email and password
